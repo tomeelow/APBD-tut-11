@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1JywFZoJ2I=",
+  "success": true,
+  "projectFilePath": "/Users/ivantomilo/Desktop/pjatk/IV sem/APBD/Tutorial_11/Tutorial_11/Tutorial_11.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivantomilo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/ivantomilo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
